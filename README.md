@@ -5,7 +5,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Live Site](#live-site)
-- [Screenshot](#screenshot)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)

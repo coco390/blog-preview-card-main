@@ -18,9 +18,6 @@ This is a solution to the Blog Preview Card Component challenge on Frontend Ment
 ## Live Site
 You can view the live site here: [View Live](https://coco390.github.io/blog-preview-card-main/)
 
-## Screenshot
-![Blog Preview Card Component](./design/desktop-design.jpg)
-
 ## Features
 - Responsive design that works on various devices
 - Clean and modern user interface
